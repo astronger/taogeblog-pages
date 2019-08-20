@@ -1,16 +1,16 @@
-# Jekyll configuration
+# Taogelog-pages configuration
 
-name: Xixia
-description: Welcome to Xixia！
+name: Taogelog-pages
+description: Welcome to Taogelog！
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://github.com/zxixia/jekyll-xixia
+url: https://taogelog-pages
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: '/jekyll-xixia'
+baseurl: '/taogelog-pages'
 ## default date_format
 date_format: 
   title: "%B-%-d-%Y"
@@ -23,7 +23,7 @@ lan: "en"
 paginate: 10
 
 highlighter: rouge
-markdown: kramdown
-gems: ['jekyll-paginate']
+markdown: astronger
+gems: ['Taogelog-pages']
 
 exclude: ['README.md', 'LICENSE', "*.bak"]
