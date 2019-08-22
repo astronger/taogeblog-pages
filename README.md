@@ -20,10 +20,9 @@ Thanks
 
 3，[Github][github-url]
 
-4，[Jekyll Clean Theme][Jekyll-Clean-Theme-url]
+4，[xixia][xixia-url]
 
 [jekyll-url]: http://jekyllthemes.org/
 [bootstrap-url]: http://getbootstrap.com/
 [github-url]: https://github.com/
-[Jekyll-Clean-Theme-url]: https://github.com/scotte/jekyll-clean
 [xixia-url]: http://xixia.info/
