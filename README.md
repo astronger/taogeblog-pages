@@ -3,7 +3,7 @@
 
 这是我的个人博客，里面会记录工作的一些技术总结。
 
-* [个人地址](https://astronger.github.io/taogelog-pages/)：https://astronger.github.io/taogelog-pages/
+* [个人地址](https://astronger.github.io/taogeblog-pages/)：https://astronger.github.io/taogeblog-pages/
 * [CSDN地址](https://blog.csdn.net/ourstronger)：https://blog.csdn.net/ourstronger
 
 

@@ -1,16 +1,16 @@
 # Taogelog-pages configuration
 
 name: 涛声依旧
-description: Welcome to Taogelog！
+description: Welcome to Taogeblog！
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://astronger.github.io/taogelog-pages/
+url: https://astronger.github.io/taogeblog-pages/
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
 # *** IMPORTANT: If your local "jekyll serve" throws errors change this to '' or
 #     run it like so: jekyll serve --baseurl=''
-baseurl: '/taogelog-pages'
+baseurl: '/taogeblog-pages'
 ## default date_format
 date_format: 
   title: "%B-%-d-%Y"
@@ -24,6 +24,6 @@ paginate: 10
 
 highlighter: rouge
 markdown: astronger
-gems: ['Taogelog-pages']
+gems: ['Taogeblog-pages']
 
 exclude: ['README.md', 'LICENSE', "*.bak"]
