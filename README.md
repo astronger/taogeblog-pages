@@ -1,14 +1,10 @@
 个人博客
 ============
 
-* Get it from [github](https://github.com/zxixia/jekyll-xixia).
-* See the [live demo](http://zxixia.github.io/jekyll-xixia/).
-* See it [in action on my own blog](http://xixia.info/).
-
 这是我的个人博客，里面会记录工作的一些技术总结。
 
-* [个人地址](https://astronger.github.io/taogelog-pages/).：https://astronger.github.io/taogelog-pages/
-* [CSDN地址](https://blog.csdn.net/ourstronger).：https://blog.csdn.net/ourstronger
+* [个人地址](https://astronger.github.io/taogelog-pages/)：https://astronger.github.io/taogelog-pages/
+* [CSDN地址](https://blog.csdn.net/ourstronger)：https://blog.csdn.net/ourstronger
 
 
 Thanks
@@ -25,4 +21,9 @@ Thanks
 [jekyll-url]: http://jekyllthemes.org/
 [bootstrap-url]: http://getbootstrap.com/
 [github-url]: https://github.com/
+<<<<<<< HEAD
 [xixia-url]: http://xixia.info/
+=======
+[Jekyll-Clean-Theme-url]: https://github.com/scotte/jekyll-clean
+[xixia-url]: http://xixia.info/
+>>>>>>> 02960d8a3d1bc7bea355d76ce8b7cd52129bf5f5
