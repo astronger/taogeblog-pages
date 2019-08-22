@@ -1,14 +1,10 @@
 个人博客
 ============
 
-* Get it from [github](https://github.com/zxixia/jekyll-xixia).
-* See the [live demo](http://zxixia.github.io/jekyll-xixia/).
-* See it [in action on my own blog](http://xixia.info/).
-
 这是我的个人博客，里面会记录工作的一些技术总结。
 
-* [个人地址](https://astronger.github.io/taogelog-pages/).：https://astronger.github.io/taogelog-pages/
-* [CSDN地址](https://blog.csdn.net/ourstronger).：https://blog.csdn.net/ourstronger
+* [个人地址](https://astronger.github.io/taogelog-pages/)：https://astronger.github.io/taogelog-pages/
+* [CSDN地址](https://blog.csdn.net/ourstronger)：https://blog.csdn.net/ourstronger
 
 
 Thanks
