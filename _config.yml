@@ -17,8 +17,8 @@ date_format:
   archive: "%b"
   categories: "%b-%Y"
   tag: "%b-%Y"
-# Language
-lan: "en" 
+# Language  中:cn  英：en
+lan: "cn" 
 
 paginate: 10
 
