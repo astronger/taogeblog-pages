@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: top_posts
 title:  "Demo"
 categories: Other
 tags: Other
