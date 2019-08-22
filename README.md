@@ -21,9 +21,6 @@ Thanks
 [jekyll-url]: http://jekyllthemes.org/
 [bootstrap-url]: http://getbootstrap.com/
 [github-url]: https://github.com/
-<<<<<<< HEAD
 [xixia-url]: http://xixia.info/
 =======
-[Jekyll-Clean-Theme-url]: https://github.com/scotte/jekyll-clean
-[xixia-url]: http://xixia.info/
->>>>>>> 02960d8a3d1bc7bea355d76ce8b7cd52129bf5f5
+
