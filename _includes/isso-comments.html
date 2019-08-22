@@ -1,3 +1,13 @@
 {% if site.comments and site.isso != '' %}
 <script data-isso="{{ site.isso }}" src="{{ site.baseurl }}/js/embed.min.js"></script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?573aaf18eee36e91bf340a931c3cccc3";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
 {% endif %}
